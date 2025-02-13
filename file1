@@ -2,6 +2,9 @@ bhadra
 veera
 prasanth
 leela
-*** conflict2**
-wq!
+<<<<<<< HEAD
 
+
+=======
+*** conflict1**
+>>>>>>> 7dedf4e7c56e6f298bdd37c4a13b10814cb59090
